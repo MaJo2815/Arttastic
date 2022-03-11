@@ -159,6 +159,10 @@ footer ul i:hover{
 	font-weight: 500;
 }
 
+footer a {
+	color: #fffdf8;
+}
+
 #mision-vision{
 	color: #323236;
 	text-align: center;
@@ -180,4 +184,79 @@ footer ul i:hover{
 	color: #323236;
 	line-height: 1.5;
 	margin-top: 25px;
+}
+
+#quienes-somos{
+	margin: 20px 0;
+}
+#quienes-somos h1, #quienes-somos h3, #quienes-somos p{
+	margin: 20px 0px;
+	color: #323236;
+	text-align: center;
+}
+#quienes-somos .equipo{
+	background-color:#D9984A;
+}
+
+#contact-form h2{
+	color: #323236;
+	text-align: left;
+	padding-left: 0;
+}
+#parafo-contact{
+	color: #323236;
+}
+.btn-artastic{
+	background-color: #D9984A;
+	color:#FFFFFF;
+	border: none;
+	border-radius: 5px;
+	padding:15px;
+}
+
+#contact-form p{
+	color:#323236;
+}
+#barra, #imagenes {
+	background-color: #fffdf8;
+}
+
+#barra img{
+	border: 1px solid #323236;
+	border-radius: 15px;
+}
+
+#imagenes img {
+	border: 2px solid #323236;
+	border-radius: 15px;
+	margin-bottom: 15px;
+}	
+
+#imagenes h2 {
+	color: #323236;
+	text-align: center;
+}
+
+.informacion-contacto{
+	color:c
+}
+
+.contacts ul{
+	list-style: none;
+}
+
+.contacts a{
+	color:#323236;
+	font-size: 16px;
+	text-decoration: none;
+}
+
+.contacts i {
+	padding-right: 10px;
+}
+
+.redes a{
+	color: #323236;
+	padding-left: 30px;
+	font-size: 25px;
 }
