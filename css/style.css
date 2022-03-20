@@ -53,7 +53,7 @@ h2 {
 	padding: 25px;
 }
 
-#buscador, #tendencias, #tema-semana, #seleccion {
+#buscador, #tendencias, #tema-semana, #seleccion, #portafolios, #cursos, #subir-archivos {
 	background-color: #3C3B40;
 	color: #fffdf8;
 }
@@ -90,6 +90,94 @@ h2 {
 	text-decoration: none;
 	font-weight: bold;
 }
+
+.fondo-nuevo{
+	background-color: #BF834E;
+	font-size: 16px;
+	height: auto;
+	width: auto;
+	padding: 15px 0;
+	text-align: center;
+	margin-bottom: 20px;
+	padding-top: 15px;
+	align-items: center;
+}
+
+.fondo-nuevo h2{
+	font-size: 25px;
+	color: #000;
+	text-align: center;
+}
+
+.fondo-nuevo a{
+	font-size: 16px;
+	color: #0D0C0F;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.fondo-nuevo img {
+	border: 2px solid #323236;
+	border-radius: 15px;
+	margin-bottom: 15px;
+}
+
+.fondo-cursos{
+	background-color: #D9984A;
+	font-size: 16px;
+	height: auto;
+	width: auto;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+	margin-bottom: 20px;
+	align-items: center;
+}
+
+.fondo-cursos h2{
+	font-size: 25px;
+	color: #000;
+	text-align: center;
+}
+
+.fondo-cursos h5{
+	font-size: 25px;
+	color: #735A45;
+	text-align: center;
+}
+
+
+.fondo-cursos a{
+	font-size: 16px;
+	color: #0D0C0F;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.fondo-cursos img{
+	border: 2px solid #323236;
+	border-radius: 15px;
+	margin-bottom: 15px;
+}
+
+ .nav-link ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+} 
+
+ .nav-link  ul li {
+	float: left;
+	width: 50px;
+	height: 40px;
+	background-color: #fff;
+	opacity: .9;
+	line-height: 40px;
+	text-align: center;
+	font-size: 20px;
+}
+
+
 #tema-semana img{
 	resize: both;
  }
@@ -237,6 +325,7 @@ footer a {
 	text-align: center;
 }
 
+
 .informacion-contacto{
 	color:c
 }
@@ -260,3 +349,18 @@ footer a {
 	padding-left: 30px;
 	font-size: 25px;
 }
+
+#subir-archivos img{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	 margin:auto;
+	 display:block;
+}
+#subir-archivos h4 {
+	text-align: center;
+}
+
+#cursos a:hover {
+	color: #fffdf8;
+}
+
